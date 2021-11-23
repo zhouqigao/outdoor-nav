@@ -1,0 +1,2 @@
+handsfree_ros_imu
+-DCATKIN_DEVEL_PREFIX=/home/nvidia/handsfree/handsfree_ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nvidia/handsfree/handsfree_ros_ws/install -G Unix Makefiles
